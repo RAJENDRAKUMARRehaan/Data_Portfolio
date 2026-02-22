@@ -81,7 +81,7 @@ L’objectif était de produire un outil interactif, lisible et orienté analyse
 ## Accès au tableau de bord
 
 Lien vers le dashboard interactif :  
-[Insérer ici le lien Power BI]
+[https://app.powerbi.com/reportEmbed?reportId=fda1e3a7-1d89-45e3-b92f-67e66603dc24&autoAuth=true&ctid=88eebcae-d6e6-4ef7-bba4-4c34f4c2d5e0]
 
 ---
 
