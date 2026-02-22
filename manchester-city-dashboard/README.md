@@ -87,7 +87,7 @@ Lien vers le dashboard interactif :
 ## Aperçu du tableau de bord
 
 ### Vue d’ensemble
-![Overview](manchester-city-dashboard/assets/overview.png)
+![Overview](manchester-city-dashboard/assets/Overview.png)
 
 ### Analyse offensive
 ![Offensive](assets/offensive.png)
