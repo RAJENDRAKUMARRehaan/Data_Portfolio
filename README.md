@@ -28,7 +28,7 @@ Création d’un tableau de bord interactif sous Power BI analysant les performa
 - Indicateurs dynamiques (KPI) créés en DAX
 - Visualisations avancées (scatter plot, boxplot, stacked charts)
 
-Lien vers le projet : [Ajouter ici le lien Power BI ou dossier GitHub]
+Lien vers le projet : [manchester-city-dashboard]
 
 ---
 
