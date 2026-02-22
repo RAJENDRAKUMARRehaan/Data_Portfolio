@@ -81,10 +81,21 @@ L’objectif était de produire un outil interactif, lisible et orienté analyse
 ## Accès au tableau de bord
 
 Lien vers le dashboard interactif :  
-[https://app.powerbi.com/reportEmbed?reportId=fda1e3a7-1d89-45e3-b92f-67e66603dc24&autoAuth=true&ctid=88eebcae-d6e6-4ef7-bba4-4c34f4c2d5e0]
+[Dashboard](https://app.powerbi.com/reportEmbed?reportId=fda1e3a7-1d89-45e3-b92f-67e66603dc24&autoAuth=true&ctid=88eebcae-d6e6-4ef7-bba4-4c34f4c2d5e0)
 
 ---
+## Aperçu du tableau de bord
 
+### Vue d’ensemble
+![Overview](assets/overview.png)
+
+### Analyse offensive
+![Offensive](assets/offensive.png)
+
+### Analyse défensive
+![Defensive](assets/defensive.png)
+
+---
 ## Auteur
 
 Rehaan Rajendrakumar  
